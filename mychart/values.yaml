@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 905418368780.dkr.ecr.us-east-1.amazonaws.com/pradeep-test-repo
+  repository: 211125766521.dkr.ecr.us-east-1.amazonaws.com/spring-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
